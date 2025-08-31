@@ -28,5 +28,5 @@ Ejercicios de repaso.
 ### A1: 
 Ejercicios relacionados a la creacion, lectura y modificación de archivos txt y binarios
 
-MI: 
+### MI: 
 Ejercicios 1 a 3: Ordenación; Ejercicios 4 a 10: Recursión - Árboles, Ejercicios 11 a 13: Merge de listas
